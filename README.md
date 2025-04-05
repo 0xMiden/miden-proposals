@@ -15,6 +15,7 @@ Miden Requests For Proposals are documents that outline specific problems or fea
 
 | RFP # | Title | Status | Deadline | Date |
 |-------|-------|--------|----------|------|
+|001|EVM Wallet Connector|Open|06-03-2025|04-03-2025|
 
 ### Submission
 
