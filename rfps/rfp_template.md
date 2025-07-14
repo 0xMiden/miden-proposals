@@ -2,7 +2,7 @@
 
 Authors: Miden team (hello@miden.team)  
 Created: [Date (month-day-year)]  
-Status: [Open/Closed/Awarded]  
+Status: [Open/Closed]  
 Deadline: [Date (month-day-year)]
 
 ## Abstract
@@ -24,6 +24,8 @@ Deadline: [Date (month-day-year)]
 [Scope]
 
 ## Requirements
+
+> Elements required to be implemented for us to consider the proposal valid 
 
 [Requirements]
 

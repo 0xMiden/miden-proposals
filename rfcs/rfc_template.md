@@ -2,7 +2,7 @@
 
 Authors: [List of proposers]  
 Created: [Date (month-day-year)]  
-Status: [Draft/Under Review/Accepted/Rejected/Implemented/Final]
+Status: [Draft/Under Review/Accepted/Rejected/Implemented]
 
 ## Abstract
 
