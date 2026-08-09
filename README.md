@@ -11,7 +11,7 @@ Miden Requests For Proposals are documents that outline specific problems or fea
 ### List
 
 > :information_source: **Info**
-> Template available [here](./rfps/rpc_template.md)
+> Template available [here](./rfps/rfp_template.md)
 
 | RFP # | Title | Status | Deadline | Date |
 |-------|-------|--------|----------|------|
